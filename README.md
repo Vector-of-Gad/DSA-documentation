@@ -20,4 +20,5 @@ Repository Link: [Kultra Mega Stores Sales Analysis](https://github.com/Vector-o
 5. PORTFOLIO CREATION: GITHUB
 
 ## Let's connect
-[Email](oluvictor987@gmail.com)
+- [Email](oluvictor987@gmail.com)
+- [Whatsapp](https://wa.link/3iog3r)
