@@ -1,7 +1,7 @@
-# DSA-documentation
+# DSA-project-documentation
 This is where I started my portfolio building while taking my Data Analysis class with Incubator Hub.
 
-## MY DATA ANALYSIS PORTFOLIO
+## DATA ANALYSIS PORTFOLIO
 Here is my work done according to what i have been taught in DSA data analysis classes
 
 ### Case Study 1: Amazon Product Review Analysis
